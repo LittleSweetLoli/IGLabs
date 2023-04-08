@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (IGLab2.vcxproj, IGLab2Tut8.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pipeline.cpp
+C:\Users\Эдгар\source\repos\IGLab2Tut8\IGLab2\pipeline.cpp(16,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Эдгар\source\repos\IGLab2Tut8\IGLab2\pipeline.cpp(16,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Эдгар\source\repos\IGLab2Tut8\IGLab2\pipeline.cpp(17,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Эдгар\source\repos\IGLab2Tut8\IGLab2\pipeline.cpp(17,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Эдгар\source\repos\IGLab2Tut8\IGLab2\pipeline.cpp(18,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Эдгар\source\repos\IGLab2Tut8\IGLab2\pipeline.cpp(18,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Эдгар\source\repos\IGLab2Tut8\IGLab2\pipeline.cpp(52,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Tutorial12.cpp
+C:\Users\Эдгар\source\repos\IGLab2Tut8\IGLab2\Tutorial12.cpp(83,49): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Эдгар\source\repos\IGLab2Tut8\IGLab2\Tutorial12.cpp(116,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  Создание кода...
+  IGLab2.vcxproj -> C:\Users\Эдгар\source\repos\IGLab2Tut8\x64\Debug\IGLab2Tut12.exe
